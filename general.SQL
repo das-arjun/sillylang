@@ -1,0 +1,4 @@
+SELECT 7 * 7
+DROP DATABASE testDB;
+C = testDB
+CONNECT C
